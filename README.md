@@ -26,6 +26,29 @@ Scanning Iso: 1.0000... Acc A: 0.6462
 
 ### Liquid-Transformer
 ```bash
+==================================================
+DIAGNOSIS: MULTI-TASK NEURAL DISTRIBUTION
+==================================================
+layers.0.qkv         | Core-Zone:  77 | Transfer-Zone: 153
+layers.0.attn_out    | Core-Zone:   1 | Transfer-Zone:  26
+layers.0.ffn         | Core-Zone:   3 | Transfer-Zone: 128
+layers.1.qkv         | Core-Zone:  72 | Transfer-Zone: 151
+layers.1.attn_out    | Core-Zone:   0 | Transfer-Zone:  28
+layers.1.ffn         | Core-Zone:  13 | Transfer-Zone: 140
+layers.2.qkv         | Core-Zone:  49 | Transfer-Zone: 150
+layers.2.attn_out    | Core-Zone:   0 | Transfer-Zone:  37
+layers.2.ffn         | Core-Zone:  21 | Transfer-Zone: 111
+layers.3.qkv         | Core-Zone:  45 | Transfer-Zone: 108
+layers.3.attn_out    | Core-Zone:   0 | Transfer-Zone:  43
+layers.3.ffn         | Core-Zone:  48 | Transfer-Zone: 111
+layers.4.qkv         | Core-Zone:  30 | Transfer-Zone: 103
+layers.4.attn_out    | Core-Zone:   0 | Transfer-Zone:  32
+layers.4.ffn         | Core-Zone:  29 | Transfer-Zone: 108
+layers.5.qkv         | Core-Zone:  95 | Transfer-Zone: 110
+layers.5.attn_out    | Core-Zone:   5 | Transfer-Zone:  35
+layers.5.ffn         | Core-Zone:  11 | Transfer-Zone: 122
+
+
 HEAD 0 (Story): Once upon a time, a small bird enough boat on them of different places on treasure."
 
  So's dad opened her and hair now boat out of places that everyone about milk together the taxi make many pictures not dad with fun together not family favorite too hard work no horn." her dad said that green family both each shiny enough boat shiny
